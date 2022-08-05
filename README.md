@@ -5,6 +5,7 @@
 - Panel data download: 
   - https://www.dropbox.com/s/zj26koqo27phh1m/1975to2017Data.dta.zip?dl=0
   - https://www.dropbox.com/s/n84czxe1wdj8o23/1990to2017Data.dta.zip?dl=0
+  - https://www.dropbox.com/s/6s1xb03ycc66rm8/QCEW_MSA.zip?dl=0
   
 - Two types of industry code: SIC, NAICS
   - Crosswalk file in "Data-CBP-Trade"
