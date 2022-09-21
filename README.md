@@ -10,4 +10,5 @@
 - Two types of industry code: SIC, NAICS
   - Crosswalk file in "Data-CBP-Trade"
 
-- Construct Bartik IV with local employment share and national industrial growth.
+- Construct Bartik IV with local employment share and national industrial growth. 
+  - Goldsmith-Pinkham (2020)
